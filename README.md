@@ -17,7 +17,8 @@ Link: https://wokwi.com/projects/459286243218051073
 
 
 ### Arquitetura do projeto
-![Arquitetura do Projeto](./FiwareDeploy_new_v5.drawio.xml)
+<img width="313" height="500" alt="Arquitetura" src="./FiwareDeploy_new_v5.drawio" />
+![Arquitetura do Projeto](./FiwareDeploy_new_v5.drawio)
 
 ---
 
