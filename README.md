@@ -17,7 +17,7 @@ Link: https://wokwi.com/projects/459286243218051073
 
 
 ### Arquitetura do projeto
-![Arquitetura do Projeto](./img/arquitetura-smart-lamp.png)
+![Arquitetura do Projeto](./FiwareDeploy_new_v5.drawio.xml)
 
 ---
 
